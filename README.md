@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to my Lab 3 page.
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-notWeso/cit281-lab03/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Lab 3 consisted of:
+- Practice refactoring JavaScript code to use more modern syntax
+- Practice destructuring an object
+- Practice converting normal functions into arrow function expressions
+- Examine using for..in  syntax with objects
+- Practice using for..of syntax with arrays
+- Practice creating a Node.js compatible code module using module.exports
+- Practice importing a Node.js compatible code module using require
+- Examine code using the spread operator
+- (deliverable for project 3)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-notWeso/cit281-lab03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What I learned:
+- I learned how to refactor Javascript code
+- I learned how to destruct an object
+- I got to practive turning a normal function into an arrow function
+- I also got to practice using the for..in syntax with an object
+- AND practiced using the for..of syntax with an array
